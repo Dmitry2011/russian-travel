@@ -1,0 +1,7 @@
+.lead {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 984px;
+  margin-left: 0px;
+}
+
