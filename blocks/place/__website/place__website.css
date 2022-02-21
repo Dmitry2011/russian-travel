@@ -3,3 +3,8 @@
   align-content: flex-end;
   flex-wrap: wrap;
 }
+@media screen and (max-width: 767px) {
+  .place__website {
+    margin-left: 16px;
+  }
+}

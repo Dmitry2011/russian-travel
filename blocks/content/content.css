@@ -1,7 +1,11 @@
 .content {
   display: flex;
   flex-direction: column;
-  max-width: 90%;
-  align-items: center;
+  max-width: 92%;
   margin: 0 auto;
+}
+@media screen and (max-width: 1279px) {
+  .content {
+    max-width: 100%;
+  }
 }
