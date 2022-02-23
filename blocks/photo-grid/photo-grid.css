@@ -16,15 +16,14 @@
 @media screen and (max-width: 1023px) {
   .photo-grid {
     max-width: 94%;
-    margin: 88px auto 0px;
+    margin-top: 88px;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
   }
 }
 @media screen and (max-width: 767px) {
   .photo-grid {
-    max-width: 90%;
-    margin: 64px auto 0px;
+    margin: 64px 16px 0px;
     grid-template-columns: 1fr;
     gap: 12px;
   }

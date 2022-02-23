@@ -10,14 +10,12 @@
 }
 @media screen and (max-width: 1279px) {
   .place {
-    grid-template-columns: minmax(auto, 1fr) minmax(auto, 1fr);
     grid-template-rows: 1fr 440px;
     gap: 48px 32px;
   }
 }
 @media screen and (max-width: 1023px) {
   .place {
-    grid-template-columns: minmax(auto, 1fr) minmax(auto, 1fr);
     grid-template-rows: auto;
     gap: 48px 28px;
     margin-bottom: 73px;
