@@ -2,7 +2,7 @@
 _Реализовал: Шаварин Д О_
 
 ### Описание
-* Проект реализован согласно предоставленному макету: _[Макет]_(https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0)
+* Проект реализован согласно предоставленному макету: [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0)
 * Проект адаптирован под 4 брейкпоинта:
   1. 1280
   2. 1024
@@ -19,4 +19,4 @@ _Реализовал: Шаварин Д О_
 * _Методология БЭМ_
 
 ### Ссылка на проект
-_[Путешествие по России]_(https://dmitry2011.github.io/russian-travel/)
+[Путешествие по России](https://dmitry2011.github.io/russian-travel/)
