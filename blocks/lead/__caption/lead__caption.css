@@ -1,4 +1,4 @@
-.lead_caption {
+.lead__caption {
   margin: 0;
   margin-top: 8px;
   color: #FFFFFF;
@@ -10,12 +10,12 @@
   text-transform: uppercase;
 }
 @media screen and (max-width: 1023px) {
-  .lead_caption {
+  .lead__caption {
     margin-left: 24px;
   }
 }
 @media screen and (max-width: 767px) {
-  .lead_caption {
+  .lead__caption {
     margin-left: 16px;
   }
 }
