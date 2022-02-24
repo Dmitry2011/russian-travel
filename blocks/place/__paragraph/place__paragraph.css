@@ -1,10 +1,9 @@
 .place__paragraph {
   margin: 0px 0px 26px;
   color: #FFFFFF;
-  font-family: 'Inter 400';
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 18px;
   line-height: 29px;
-  font-weight: normal;
 }
 .place__paragraph:last-child {
   margin: 0;

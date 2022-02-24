@@ -1,9 +1,8 @@
 .intro__text {
   color: #FFFFFF;
-  font-family: 'Inter 400';
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
-  font-weight: normal;
   margin: 0;
   margin-top: 40px;
 }

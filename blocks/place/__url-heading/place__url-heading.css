@@ -3,9 +3,8 @@
   width: 100%;
   margin: 0px;
   color: #AAAAAA;
-  font-family: 'Inter 400';
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 12px;
   line-height: 12px;
-  font-weight: normal;
   letter-spacing: 2px;
 }

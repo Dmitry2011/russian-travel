@@ -1,10 +1,9 @@
 .place__link {
   margin-top: 12px;
   color: #FFFFFF;
-  font-family: 'Inter 400';
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 18px;
   line-height: 22px;
-  font-weight: normal;
   height: fit-content;
   transition: opacity 0.4s ease-in-out;
 }
